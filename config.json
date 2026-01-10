@@ -1,16 +1,16 @@
 {
-  "site": {
-    "title": "Mi Tienda",
-    "description": "Descripción de la tienda",
-    "heroImage": "https://drive.google.com/uc?id=XXXX",
-    "whatsapp": "573001234567",
-    "storeLink": "https://hgw.com/tu-tienda"
+  "title": "Tienda Carmenza",
+  "description": "Tu tienda online de productos de calidad",
+  "heroImage": {
+    "mobile": "https://drive.google.com/uc?export=view&id=TU_ID_DE_DRIVE_MOBILE",
+    "tablet": "https://drive.google.com/uc?export=view&id=TU_ID_DE_DRIVE_TABLET",
+    "desktop": "https://drive.google.com/uc?export=view&id=TU_ID_DE_DRIVE_DESKTOP"
   },
-  "ui": {
-    "externalStoreButton": {
-      "label": "Comprar desde la tienda HWG",
-      "visible": true,
-      "position": "floating"
-    }
+  "whatsapp": "+573001234567",
+  "storeLink": "https://tienda-hwg.com",
+  "storeButton": {
+    "text": "Comprar desde la tienda HWG",
+    "visible": true,
+    "position": "bottom-right"
   }
 }

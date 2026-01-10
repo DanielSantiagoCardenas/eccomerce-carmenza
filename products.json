@@ -5,9 +5,11 @@
     "subtitle": "sfsdfsdfsf",
     "description": "asdfsdf",
     "price": 50000,
-    "discount": 7500,
-    "media": [],
+    "discount": 7000,
+    "media": [
+      "https://drive.google.com/thumbnail?id=1KRkvpiEkNqytGc7nXFOXUKoIKdSzC5bc&sz=w1920"
+    ],
     "isActive": true,
-    "createdAt": "2026-01-10T19:20:06.177Z"
+    "createdAt": "2026-01-10T19:26:30.041Z"
   }
 ]

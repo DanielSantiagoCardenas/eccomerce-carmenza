@@ -1,1 +1,13 @@
-[]
+[
+  {
+    "id": "product-1768072806177",
+    "title": "sdfsdfsdf",
+    "subtitle": "sfsdfsdfsf",
+    "description": "asdfsdf",
+    "price": 50000,
+    "discount": 7500,
+    "media": [],
+    "isActive": true,
+    "createdAt": "2026-01-10T19:20:06.177Z"
+  }
+]

@@ -7,10 +7,10 @@
     "price": 50000,
     "discount": 3500000,
     "media": [
-      "https://drive.google.com/thumbnail?id=1KRkvpiEkNqytGc7nXFOXUKoIKdSzC5bc&sz=w1920",
+      "https://drive.google.com/file/d/1KRkvpiEkNqytGc7nXFOXUKoIKdSzC5bc/view?usp=drive_link",
       "https://drive.google.com/file/d/10BZ6AhMqq3wxgrayd824OjC0Sfy4tL_s/view?usp=drive_link"
     ],
     "isActive": true,
-    "createdAt": "2026-01-10T19:33:17.665Z"
+    "createdAt": "2026-01-10T19:35:03.903Z"
   }
 ]
